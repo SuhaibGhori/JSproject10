@@ -1,0 +1,60 @@
+ body{
+    background-image:url(./Capture.wall.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main{
+    border: 5px groove grey;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUhxT6iSsGkAP66cez9UVfQod4lXbOfGZz4g&s");
+    /* background-color: #1202f35e; */
+    width: 480px;
+    height:360px;
+    /* margin-top: 50px; */
+    margin: 50px 0px 0px 550px;
+}
+
+.result{
+    padding-top:10px;
+    margin-top:20px;
+    width: 100%;
+    position: relative;
+    top: -2px;
+    background-color: rgb(196, 195, 195);
+    color: #fff;
+}
+
+.clearBtn{
+width: 100%;
+margin-top: 10px;
+margin-bottom: 6px;
+background-color:  rgb(196, 195, 195);
+color: white !important;
+}
+.clearBtn:hover{
+    background-color: rgba(255, 0, 0, 0.616);
+    color: white;
+}
+
+.btn{
+    color: white !important;
+    border: 1px solid black !important;
+    width: 50px;
+    /* background-color: grey !important; */
+    margin-left: 50px; 
+    margin-top:5px;
+    /* background-color: grey;  */
+}
+
+.halfBtn{
+    color: white !important;
+    background-color: rgb(196, 195, 195);
+    width: 49%;
+    margin-top: 5px;
+} 
+.halfBtn:hover{
+    background-color: black;
+    color: white;
+}
+
+
